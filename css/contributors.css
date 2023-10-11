@@ -129,7 +129,7 @@ body {
   align-content: normal;
   background: var(--darkbg);
   outline: 0;
-  color: #eee;
+  color: #fe0c43;
   width: 20rem;
   accent-color: var(--lightt);
   box-shadow: none;
@@ -152,7 +152,7 @@ input:-webkit-autofill:active {
 
 .light .form-control {
   background-color: #fff;
-  border-color: #eee;
+  border-color: #fe0c43;
   color: #000;
   outline: 0;
   box-shadow: none;
